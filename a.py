@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("ttttt")
+st.title("私はGOT is GOT")
